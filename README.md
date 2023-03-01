@@ -1,12 +1,12 @@
 # Contemporary Issues In Data - Chris Adddeo, cda8682
 
 
-# Youtube's User of Viewer Data to Influence their Political Leanings
+# Youtube's Influence over their User's Political Leanings
 In this document, I will be discussing two articles about how Youtube recommends political content and influences the direction of a user's ideological views. With Youtube having over 122 million daily users, the implications of such issues must be taken seriously, so I will present and discuss two opposing views on this important matter.
 
 
 ## Article 1
-In The Verge's [How white supremacists are thriving on YouTube](https://www.theverge.com/2018/9/19/17876892/youtube-extremism-report-rebecca-lewis-data-society), major institutions like Youtube perpetuate right-wing extremism by amplifying conservative content. Although search engines benefit moderate to liberal phrasing, influencers are able to capitalize on this through emphasizing their relatability, “authenticity,” and relation to a larger counter culture. From there, they encourage viewers to adopt more radical ideologies over time, then introduce them to extremist figures. The report from the article has shown how these attempts to appear as "moderate" and "objective" are being exploited by users who fundamentally reject objectivity as a valid stance and push misinformation.
+In The Verge's [How white supremacists are thriving on YouTube](https://www.theverge.com/2018/9/19/17876892/youtube-extremism-report-rebecca-lewis-data-society), major institutions like Youtube perpetuate right-wing extremism by amplifying conservative content. Although search engines benefit moderate-to-liberal phrasing, influencers are able to capitalize on this through over-emphasizing their relatability, “authenticity,” and relation to a larger counter culture. From there, they encourage viewers to adopt more radical ideologies over time and introduce more extremist figures. The report from the article has shown how these attempts to appear as "moderate" and "objective" are being exploited by users who fundamentally reject objectivity as a valid stance and push misinformation.
 
 Youtube's recommendation system also encourages this behavior. Once you view a right-wing influencer's channel, more channel's with similar views start popping up, until you have over 80 channels full of slightly conservative to extremist content. It has been studied that this trend does not function the same for left-wing content, which is not boosted as much by search engines and recommendations. More concerning, some claim this is a societal issue that is being exploited. Many of these influencers recommend their extremist peers to their viewers, and the intensification of recommendation systems only strengthens the push into an ideological rabbit hole.
 
